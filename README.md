@@ -37,31 +37,31 @@ Instale as dependências
 Com o Docker instalado - Inicie O Banco de dados com o Docker
 
 ```bash
-    docker compese up -d
+  docker compese up -d
 ```
 
 Para verificar se está Ok
 
 ```bash
-    docker ps
+  docker ps
 ```
 
 Criar as migrações das tabelas rodando o comando:
 
 ```bash
-    npx drizzle-kit generate
+  npx drizzle-kit generate
 ```
 
 Criar as tabelas rodando o comando:
 
 ```bash
-    npx drizzle-kit migrate
+  npx drizzle-kit migrate
 ```
 
 Visualizar as tabelas:
 
 ```bash
-    npx drizzle-kit studio
+  npx drizzle-kit studio
 ```
 
 Inicie o servidor
