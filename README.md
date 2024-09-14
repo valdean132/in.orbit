@@ -1,5 +1,5 @@
 
-![Logo](	https://panel.valdeansouza.com/assets/uploads/images/66e4ce4704cf7.png)
+![Logo](https://github.com/valdean132/in.orbit/blob/main/web/src/assets/logo-in-orbit.svg)
 
 
 # In.orbit
